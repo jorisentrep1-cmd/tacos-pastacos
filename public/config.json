@@ -1,0 +1,67 @@
+{
+  "restaurant": {
+    "nom": "Tacos pastacos",
+    "slogan": "Tacos CaféOlé",
+    "since": "2000",
+    "type": "Café",
+    "telephone": "06 60 00 50 00",
+    "telephone_raw": "0660005000",
+    "email": "tacosavenue@gmail.com",
+    "adresse": "2 rue du tacos",
+    "ville": "Tacos land",
+    "whatsapp": "0660005000",
+    "couleur": "#B67332",
+    "horaire_aujourd_hui": "11:00 - 14:00",
+    "google_maps_url": "https://maps.google.com/?q=2%20rue%20du%20tacos%20Tacos%20land",
+    "google_maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.99!2d2.3503!3d48.8566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1",
+    "thefork_url": "https://www.thefork.fr",
+    "zenchef_url": "https://www.zenchef.com",
+    "pills": [
+      "🍽️ Cuisine fraîche",
+      "🌿 Produits locaux",
+      "⭐ Service de qualité"
+    ],
+    "horaires": {
+      "Lun - Jeu": "12:00 - 23:00",
+      "Ven - Sam": "12:00 - 00:00",
+      "Dimanche": "12:00 - 23:00"
+    },
+    "menu": {
+      "Entrées": [
+        {
+          "nom": "À personnaliser",
+          "prix": "X€",
+          "desc": "Description à modifier"
+        }
+      ],
+      "Plats": [
+        {
+          "nom": "À personnaliser",
+          "prix": "X€",
+          "desc": "Description à modifier"
+        }
+      ],
+      "Desserts": [
+        {
+          "nom": "À personnaliser",
+          "prix": "X€",
+          "desc": "Description à modifier"
+        }
+      ]
+    },
+    "offres": [
+      {
+        "icon": "🌞",
+        "badge": "Midi",
+        "titre": "Menu du Midi",
+        "desc": "Formule à personnaliser."
+      },
+      {
+        "icon": "⭐",
+        "badge": "Fidélité",
+        "titre": "Programme Fidélité",
+        "desc": "Avantages exclusifs."
+      }
+    ]
+  }
+}
